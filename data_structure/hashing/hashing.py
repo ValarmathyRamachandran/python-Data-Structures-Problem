@@ -24,7 +24,7 @@ def hashing_runner():
     hash_obj = HashTable()
 
     print('These are the Numbers in our File')
-    file = open("../hashing/HashTable File", "r")
+    file = open("hash_table.py", "r")
     print(file.readline())
 
     print('Now enter the Number you are looking for')
